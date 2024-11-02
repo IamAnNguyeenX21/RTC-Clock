@@ -1,0 +1,5 @@
+../Library/rtc.c:12:9:Decimal2BCD	16	static
+../Library/rtc.c:17:9:BCD2Decimal	16	static
+../Library/rtc.c:22:6:RTC_ReadTime	40	static
+../Library/rtc.c:38:6:RTC_WriteTime	32	static
+../Library/rtc.c:51:6:RTC_Init	24	static

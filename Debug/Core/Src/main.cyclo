@@ -1,0 +1,14 @@
+../Core/Src/main.c:144:6:HAL_TIM_PeriodElapsedCallback	4
+../Core/Src/main.c:170:6:btn_press_short_callback	48
+../Core/Src/main.c:422:6:btn_press_timeout1s_callback	2
+../Core/Src/main.c:432:6:btn_press_timeout2s_callback	2
+../Core/Src/main.c:451:6:btn_press_timeout3s_callback	2
+../Core/Src/main.c:462:6:alarm_handle	9
+../Core/Src/main.c:488:6:display_handle	6
+../Core/Src/main.c:537:5:main	1
+../Core/Src/main.c:610:6:SystemClock_Config	3
+../Core/Src/main.c:649:13:MX_I2C1_Init	2
+../Core/Src/main.c:683:13:MX_TIM2_Init	4
+../Core/Src/main.c:728:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:761:13:MX_GPIO_Init	1
+../Core/Src/main.c:789:6:Error_Handler	1
